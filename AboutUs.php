@@ -14,5 +14,6 @@ and open the template in the editor.
         <?php
         echo "We are awesome";
         ?>
+        <p>Some contact information goes here</p>
     </body>
 </html>

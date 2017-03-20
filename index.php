@@ -16,5 +16,6 @@ and open the template in the editor.
         ?>
         <p>My first paragraph</p>
         <p>My second paragraph</p>
+        <p>My third paragraph</p>
     </body>
 </html>
