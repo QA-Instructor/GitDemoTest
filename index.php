@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "<h1>Heading</h1>";
+        echo "<h1>Heading Has Changed</h1>";
+        
         ?>
+        <p>My first paragraph</p>
+        <p>My second paragraph</p>
     </body>
 </html>
